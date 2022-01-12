@@ -34,7 +34,7 @@
 
 ## Screenshot
 
-![App Screenshot](./ss.png)
+![Screenshot](./ss.png)
 
 
 ## 🔗 Links
