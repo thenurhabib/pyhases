@@ -3,8 +3,6 @@
 
 ### Generate different types of hash of any string.
 
-<br>
-<br>
 
 ## Usage.
 ### <u> linux </u>
