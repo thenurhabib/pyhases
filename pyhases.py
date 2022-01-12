@@ -12,7 +12,7 @@ def BannerFunction():
     print(f"""{Blue}
                 
           ---------------------------------------
-          |  PyHashes v1.0 - Hash Generator     |
+          |  PyHasees v1.0 - Hash Generator     |
           ---------------------------------------
 
                  Author : Md. Nur Habib
